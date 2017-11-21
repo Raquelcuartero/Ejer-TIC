@@ -1,2 +1,0 @@
-# Ejer-TIC
-TIC C++

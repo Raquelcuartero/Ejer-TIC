@@ -1,0 +1,7 @@
+def nif():
+    dni=input ("Inserte tu DNI")
+    letras="TRWAGMYFPDXBNJZSQVHLCKE"
+    posicion=dni%23
+    print letras [posicion]
+nif()
+    
